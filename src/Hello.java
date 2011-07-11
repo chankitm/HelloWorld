@@ -11,4 +11,7 @@ public class Hello {
 		System.out.println("***Version 3!***");
 	}
 
+	public static void dummy(){
+		
+	}
 }

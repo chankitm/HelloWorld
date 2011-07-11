@@ -12,6 +12,6 @@ public class Hello {
 	}
 
 	public static void dummy(){
-		
+		System.out.println("*** dummy function ***");
 	}
 }

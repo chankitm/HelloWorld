@@ -9,7 +9,6 @@ public class Hello {
 		System.out.println("***HelloWorld!!!***");
 		System.out.println("***Version 2!***");
 		System.out.println("***Version 3!***");
-		
 
 		master m = new master();
 		m.master();
@@ -17,10 +16,15 @@ public class Hello {
 		testing test = new testing();
 		test.testing();
 
+		outdated();
 	}
 
 	public static void dummy(){
 		System.out.println("*** dummy function ***");
 		System.out.println("*** dummy function 2 ***");
+	}
+	
+	public static void outdated(){
+		
 	}
 }

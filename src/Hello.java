@@ -10,8 +10,13 @@ public class Hello {
 		System.out.println("***Version 2!***");
 		System.out.println("***Version 3!***");
 		
+
 		master m = new master();
 		m.master();
+
+		testing test = new testing();
+		test.testing();
+
 	}
 
 	public static void dummy(){

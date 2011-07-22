@@ -9,6 +9,9 @@ public class Hello {
 		System.out.println("***HelloWorld!!!***");
 		System.out.println("***Version 2!***");
 		System.out.println("***Version 3!***");
+		
+		testing test = new testing();
+		test.testing();
 	}
 
 	public static void dummy(){
